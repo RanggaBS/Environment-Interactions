@@ -1,7 +1,7 @@
 # Environment-Interactions
 Interact with some props.
 
-This is my current mod project. I'm not sure if I can finished making this mod, because if I add some new props to interact, the game crashes if I go inside the Fun House Fun. Is this because the game limitations? Or something else? Idk
+This is my abandoned mod project.
 
 Whats has been done:
 - School rooftop (wheelbarrows, bells, and scaffolds)
