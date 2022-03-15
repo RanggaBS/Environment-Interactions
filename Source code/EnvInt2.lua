@@ -1,4 +1,4 @@
--- Last edited: Saturday, 18 Deceber 2021
+-- Last edited: Saturday, 18 December 2021
 
 --[[
 	Environment Interactions
